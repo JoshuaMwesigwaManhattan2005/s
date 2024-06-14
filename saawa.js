@@ -1,4 +1,4 @@
-const display = document.setElementById("display")
+ const display = document.setElementById("display")
 let timer = null;
 let startTime = 0;
 let elapsedTime = 0;
@@ -23,7 +23,6 @@ function stop(){
 }
 
 function reset(){
-    
     clearInterval(timer);
     startTime = 0;
     elapsedTime = 0;
