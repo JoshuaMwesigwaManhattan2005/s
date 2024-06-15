@@ -44,20 +44,20 @@ body{
     transition: background-color 0.7s ease;
 }
 
-#startbtn{
+#startBtn{
     background-color: hsl(115, 100%, 40%);
 }
-#startbtn:hover{
+#startBtn:hover{
     background-color: hsl(115, 100%, 28%);
 }
-#stopbtn{
+#stopBtn{
     background-color: hsl(10, 90%, 50%);
-}#stopbtn:hover{
+}#stopBtn:hover{
     background-color: hsl(10, 90%, 38%);
 }
-#resetbtn{
+#resetBtn{
     background-color: hsl(205, 90%, 60%);
 }
-#resetbtn:hover{
+#resetBtn:hover{
     background-color: hsl(205, 90%, 48%);
 }
