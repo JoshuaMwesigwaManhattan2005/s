@@ -44,20 +44,20 @@ body{
     transition: background-color 0.7s ease;
 }
 
-#kuanza{
+#startbtn{
     background-color: hsl(115, 100%, 40%);
 }
-#kuanza:hover{
+#startbtn:hover{
     background-color: hsl(115, 100%, 28%);
 }
-#acha{
+#stopbtn{
     background-color: hsl(10, 90%, 50%);
-}#acha:hover{
+}#stopbtn:hover{
     background-color: hsl(10, 90%, 38%);
 }
-#reset{
+#resetbtn{
     background-color: hsl(205, 90%, 60%);
 }
-#reset:hover{
+#resetbtn:hover{
     background-color: hsl(205, 90%, 48%);
 }

@@ -44,6 +44,6 @@ function update(){
     minutes = string(minutes).padstart(2, "0");
     seconds = string(seconds).padstart(2, "0");
     milliseconds = string(milliseconds).padstart(2, "0");
-
+    
     display.textcontent = `${hours}:${minutes}:${seconds}:${milliseconds}`;
 }
